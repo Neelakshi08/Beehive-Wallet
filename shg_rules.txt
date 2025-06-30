@@ -1,0 +1,19 @@
+Rule 1: Every financial decision must be approved by at least 60% of the group members.
+
+Rule 2: Withdrawals above 1000 rupees require a group vote and documentation of the reason.
+
+Rule 3: Only registered SHG members can deposit or initiate transactions.
+
+Rule 4: Emergency withdrawals are allowed if three core members approve via voice vote.
+
+Rule 5: Monthly contributions must be logged before the 5th of each month.
+
+Rule 6: Members missing 2 or more consecutive contributions will be temporarily restricted from initiating withdrawals.
+
+Rule 7: Group leaders can review fraud alerts flagged by the system and escalate cases.
+
+Rule 8: Voice commands must follow the format: [Name] [action] [amount] for [reason].
+
+Rule 9: Members can ask the system about rules using their voice in local language.
+
+Rule 10: All transactions and decisions are stored transparently and can be audited.
